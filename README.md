@@ -1,0 +1,1 @@
+This project focuses on analyzing job market trends using web-scraped job listings data. Python libraries such as Requests and BeautifulSoup were used for data extraction, while Pandas was used for data cleaning and transformation. Exploratory Data Analysis (EDA) was conducted using Matplotlib and Seaborn to uncover insights related to job roles, locations, and hiring patterns.
